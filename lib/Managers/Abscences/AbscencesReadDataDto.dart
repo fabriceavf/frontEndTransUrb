@@ -1,0 +1,51 @@
+class AbscencesReadDataDto
+{
+    String Id="";
+    String UserId="";
+    String Raison="";
+    String Debut="";
+    String Fin="";
+    String Etats="";
+    String TypesabscenceId="";
+    String ExtraAttributes="";
+    String CreatedAt="";
+    String UpdatedAt="";
+    String DeletedAt="";
+    String IdentifiantsSadge="";
+    String CreatBy="";
+    String Valide="";
+    String DatabaseHost="";
+    String DatabasePass="";
+    String DatabaseName="";
+    String DatabaseUser="";
+    String ApiLink="";
+    List Typesabscences=[];
+    List Users=[];
+    List Soldables=[];
+    List Variables=[];
+    List Balises=[];
+    List Categories=[];
+    List Contrats=[];
+    List Directions=[];
+    List Echelons=[];
+    List Fonctions=[];
+    List Matrimoniales=[];
+    List Nationalites=[];
+    List Postes=[];
+    List Roles=[];
+    List Sexes=[];
+    List Sites=[];
+    List Situations=[];
+    List Typeseffectifs=[];
+    List Villes=[];
+    List Zones=[];
+    List Services=[];
+    List Contratsclients=[];
+    List Postesarticles=[];
+    List Typespostes=[];
+    List Clients=[];
+    List Pointeuses=[];
+    List Typessites=[];
+    List Provinces=[];
+
+}

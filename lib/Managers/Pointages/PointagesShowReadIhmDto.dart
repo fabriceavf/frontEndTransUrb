@@ -1,0 +1,62 @@
+namespace App\Domains\Manager\Pointages;
+
+class PointagesShowReadIhmDto
+{
+    public $Id="";
+    public $Pointeuse="";
+    public $Lieu="";
+    public $DebutPrevu="";
+    public $FinPrevu="";
+    public $FactionHoraire="";
+    public $DebutReel="";
+    public $DebutRealise="";
+    public $FinRealise="";
+    public $VolumeRealise="";
+    public $EmpCode="";
+    public $Motif="";
+    public $VolumePrevu="";
+    public $Actif="";
+    public $EstValide="";
+    public $HoraireId="";
+    public $ProgrammeId="";
+    public $Tolerance="";
+    public $EstAttendu="";
+    public $Etats="";
+    public $UserId="";
+    public $ExtraAttributes="";
+    public $CreatedAt="";
+    public $UpdatedAt="";
+    public $DeletedAt="";
+    public $IdentifiantsSadge="";
+    public $CreatBy="";
+    public $Horaires=[];
+    public $Programmes=[];
+    public $Users=[];
+    public $Postes=[];
+    public $Programmations=[];
+    public $Typesheures=[];
+    public $Balises=[];
+    public $Categories=[];
+    public $Contrats=[];
+    public $Directions=[];
+    public $Echelons=[];
+    public $Fonctions=[];
+    public $Matrimoniales=[];
+    public $Nationalites=[];
+    public $Roles=[];
+    public $Sexes=[];
+    public $Sites=[];
+    public $Situations=[];
+    public $Typeseffectifs=[];
+    public $Villes=[];
+    public $Zones=[];
+    public $Contratsclients=[];
+    public $Postesarticles=[];
+    public $Typespostes=[];
+    public $Services=[];
+    public $Clients=[];
+    public $Pointeuses=[];
+    public $Typessites=[];
+    public $Provinces=[];
+
+}

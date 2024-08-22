@@ -1,0 +1,46 @@
+class PermsReadDataDto
+{
+    String Id="";
+    String PermissionLabel="";
+    String PermissionNom="";
+    String PermissionId="";
+    String UpdatedAt="";
+    String UserId="";
+    String Nom="";
+    String Prenom="";
+    String Type="";
+    String DeletedAt="";
+    String CreatedAt="";
+    String DatabaseHost="";
+    String DatabasePass="";
+    String DatabaseName="";
+    String DatabaseUser="";
+    String ApiLink="";
+    List Permissions=[];
+    List Users=[];
+    List Balises=[];
+    List Categories=[];
+    List Contrats=[];
+    List Directions=[];
+    List Echelons=[];
+    List Fonctions=[];
+    List Matrimoniales=[];
+    List Nationalites=[];
+    List Postes=[];
+    List Roles=[];
+    List Sexes=[];
+    List Sites=[];
+    List Situations=[];
+    List Typeseffectifs=[];
+    List Villes=[];
+    List Zones=[];
+    List Services=[];
+    List Contratsclients=[];
+    List Postesarticles=[];
+    List Typespostes=[];
+    List Clients=[];
+    List Pointeuses=[];
+    List Typessites=[];
+    List Provinces=[];
+
+}

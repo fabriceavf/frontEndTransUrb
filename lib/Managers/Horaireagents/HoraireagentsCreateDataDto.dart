@@ -1,0 +1,52 @@
+class HoraireagentsCreateDataDto
+{
+    String Id="";
+    String HoraireId="";
+    String UserId="";
+    String Lun="";
+    String Mar="";
+    String Mer="";
+    String Jeu="";
+    String Ven="";
+    String Sam="";
+    String Dim="";
+    String CreatedAt="";
+    String UpdatedAt="";
+    String ExtraAttributes="";
+    String DeletedAt="";
+    String IdentifiantsSadge="";
+    String CreatBy="";
+    String Typesagents="";
+    String DbHost="";
+    String DbPass="";
+    String DbName="";
+    String DbUser="";
+    String ApiLink="";
+    List Horaires=[];
+    List Users=[];
+    List Postes=[];
+    List Balises=[];
+    List Categories=[];
+    List Contrats=[];
+    List Directions=[];
+    List Echelons=[];
+    List Fonctions=[];
+    List Matrimoniales=[];
+    List Nationalites=[];
+    List Roles=[];
+    List Sexes=[];
+    List Sites=[];
+    List Situations=[];
+    List Typeseffectifs=[];
+    List Villes=[];
+    List Zones=[];
+    List Contratsclients=[];
+    List Postesarticles=[];
+    List Typespostes=[];
+    List Services=[];
+    List Clients=[];
+    List Pointeuses=[];
+    List Typessites=[];
+    List Provinces=[];
+
+}
